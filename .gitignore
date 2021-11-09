@@ -135,3 +135,4 @@ dmypy.json
 ./env
 #Ignore the secrets files
 config/secrets.yaml
+/data

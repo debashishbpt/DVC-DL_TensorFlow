@@ -11,9 +11,9 @@ artifacts:
 
 
 source_download_dirs:
-  - ../external_data/dog
-  - ../external_data/cat
+  - ../outside_data/dog
+  - ../outside_data/cat
 
-local_data_path:
+local_data_dirs:
   - data/dog
   - data/cat  

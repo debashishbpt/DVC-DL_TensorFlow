@@ -27,3 +27,7 @@ touch config/config.yaml
 touch config/secrets.yaml
 ```
 
+### install src
+```bash
+pip install -e .
+```
